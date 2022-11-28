@@ -6,7 +6,7 @@ This is a web based application developed for Organic products based website in 
 
 
 **Project Link** - https://thankful-moss-0252acc10.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** - https://youtu.be/MuEnoMRwRxo
 
 ## Azure technologies used for Project
 
