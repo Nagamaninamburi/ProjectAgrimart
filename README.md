@@ -6,6 +6,7 @@ This is a web based application developed for Organic products based website in 
 
 
 **Project Link** - https://thankful-moss-0252acc10.2.azurestaticapps.net
+
 **project demo video link** - https://youtu.be/MuEnoMRwRxo
 
 ## Azure technologies used for Project
@@ -49,9 +50,24 @@ This is a web based application developed for Organic products based website in 
 
 ### health bot
 
-![Healthbot](https://user-images.githubusercontent.com/118106595/204133709-33b7b7e5-9f25-4141-9d4d-f10c96575c88.JPG)
+![Fever-1](https://user-images.githubusercontent.com/118106595/208226041-fd3e36ce-0ace-405c-8bfa-a8875959c53d.JPG)
+![Fever-2](https://user-images.githubusercontent.com/118106595/208226051-7be51242-4f4b-45a9-8762-95f6fefd31c2.JPG)
+![Fever-3](https://user-images.githubusercontent.com/118106595/208226052-e718f364-d9a7-49e9-9db2-e246c50782e0.JPG)
+![Fever-4](https://user-images.githubusercontent.com/118106595/208226053-4e65325a-10db-4e3a-b092-df0afb411c60.JPG)
+![Fever-5](https://user-images.githubusercontent.com/118106595/208226054-c113dfe0-bcd9-437b-b5d6-840a9ad46944.JPG)
+![Fever-6](https://user-images.githubusercontent.com/118106595/208226055-57462458-af72-49ef-aa20-f6299bcde724.JPG)
+![Fever-7](https://user-images.githubusercontent.com/118106595/208226057-acb7f206-9c0e-46cd-9b8b-9267d664ed26.JPG)
+![Fever-8](https://user-images.githubusercontent.com/118106595/208226061-7b16d6ac-0127-4f26-97c0-733c369317cf.JPG)
+![Fever-9](https://user-images.githubusercontent.com/118106595/208226062-01fa3869-dc69-4547-9851-e7d9295b057d.JPG)
+![Fever-10](https://user-images.githubusercontent.com/118106595/208226063-ac97f610-c913-4b7c-9138-42a0a91c65c5.JPG)
+![Fever-11](https://user-images.githubusercontent.com/118106595/208226064-8861ac7d-ff03-4261-abd6-b8b943892e7b.JPG)
+![Fever-12](https://user-images.githubusercontent.com/118106595/208226065-5ce082ac-7418-4067-8dee-e67c192b1e5e.JPG)
+![Fever-13](https://user-images.githubusercontent.com/118106595/208226066-68b5c2ee-132b-475e-8375-4784201119e7.JPG)
+![Fever-14](https://user-images.githubusercontent.com/118106595/208226067-7a852c59-51f4-4ef0-acce-fb85620d3798.JPG)
+![Fever-15](https://user-images.githubusercontent.com/118106595/208226068-287417cd-9c00-4a71-b76a-339cf7ede82a.JPG)
 
-
+### Azure
+![Azure-1](https://user-images.githubusercontent.com/118106595/208226440-0c114c46-0b9d-496e-9a9c-246b76297c4a.JPG)
 
 ## Tech Stack 💻
 
