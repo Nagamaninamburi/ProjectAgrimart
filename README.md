@@ -68,6 +68,7 @@ This is a web based application developed for Organic products based website in 
 
 ### Azure
 ![Azure-1](https://user-images.githubusercontent.com/118106595/208226440-0c114c46-0b9d-496e-9a9c-246b76297c4a.JPG)
+![Azure2](https://user-images.githubusercontent.com/118106595/215527771-11d8a97f-17d7-423e-b113-abcae80af260.JPG)
 
 ## Tech Stack 💻
 
